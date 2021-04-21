@@ -1,0 +1,31 @@
+<html>
+
+	<head>
+		<title>Tarea HTML de Lucas Varone</title>
+		<link rel="stylesheet" href="./style.css">
+
+	</head>
+
+	<body>		
+		<div class= 'divClass'>
+		<h1>Lucas</h1>	
+		<h3>Henry</h3>
+		<h4>tarea de HTML / CSS</h4>
+
+		</div>
+
+		<div class='divClass'>
+			<span id='spanId'>Mi comida favorita es pizza</span>
+			<a href= 'http://www.lapizzeriaweb.com'> Link resto favorito</a>
+		</div>
+
+		<div id='thirdDiv'>
+			<ul>
+				<li><img src= 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt5-lLj9PGKyXhDL_HkVJA67xmGYLU8keJbaR1g8TgQK_pqY2dJJlCiludoEIzpXBQkMk&usqp=CAU'/></li>	
+				<li><img src='https://www.gstatic.com/bfe/apps/website/img/h/87450465-pizza-1440.jpg'/></li>
+			</ul>	
+		</div>
+
+	</body>
+
+</html>

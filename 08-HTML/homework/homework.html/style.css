@@ -1,0 +1,23 @@
+		<style>
+			h1{
+				color: blue;
+			}
+
+			img{
+				width: 400px;
+			}
+
+			#thirdDiv{
+				height: 500px;
+				width:600px;
+				background-color: blue; 
+				padding: 50px;
+				border:15px solid black;
+			}
+
+			#spanId{
+				font-size: 18px;
+				margin:50px;
+			}
+
+		</style>
